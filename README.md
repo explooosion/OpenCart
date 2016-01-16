@@ -1,5 +1,5 @@
-# openCart
-本區紀錄openCart研究資訊
+# OpenCart
+本區紀錄OpenCart研究資訊
 
 #參考資料
 1. [OpenCart](http://www.opencart.com/)
