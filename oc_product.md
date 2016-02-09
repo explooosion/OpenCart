@@ -13,7 +13,7 @@ public function addProduct($data);
 1. product_id
 2. model
 3. quantity(自訂)
-4. stocj_status_id
+4. stock_status_id
 
 
 #三、 初步計畫
